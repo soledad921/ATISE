@@ -52,9 +52,9 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via TemporalRot
 	    timedisc: the method used for handling facts involving time intervals: 0 means no time intervals; 1 means to discretize time intervals into time points; 2 means to use dual relation embeddings (default: 0)
 	    cuda:   whether to use cuda devices (default: True)
 	    loss: use which loss function for optimization: logloss means logistic loss function; marginloss means margin rank loss (default: logloss)
-      cmin: minimum threshold of covariance matrices of ATISE (default: 0.005)
-      gran: the time unit of icews datasets (default: 1)
-      thre: the mini threshold of time classes in yago and wikidata (default: 1)
+	    cmin: minimum threshold of covariance matrices of ATISE (default: 0.005)
+	    gran: the time unit of icews datasets (default: 1)
+	    thre: the mini threshold of time classes in yago and wikidata (default: 1)
 
 * Results will be printed out and stored in the corresponding dataset folders.
 
