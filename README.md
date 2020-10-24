@@ -2,7 +2,7 @@ README
 ===========================
 This is the source code of our papers: 
 
-ISWC2020 paper: ["Temporal Knowledge Graph Completion basedon Time Series Gaussian Embedding"](https://arxiv.org/pdf/1911.07893.pdf)
+ISWC2020 paper: ["Temporal Knowledge Graph Completion based on Time Series Gaussian Embedding"](https://arxiv.org/pdf/1911.07893.pdf)
 
 COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation"](https://arxiv.org/pdf/2010.01029.pdf)
 ****
