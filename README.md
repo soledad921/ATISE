@@ -41,7 +41,7 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Ro
 * Parameters and Some of the important available options include:  
 
 	    task: [LinkPrediction,TimePrediction]	(default:LinkPrediction)	
-	    model:  [ATISE,TeRo]   (default: ATISE)
+	    model:  [ATISE,TERO]   (default: ATISE)
 	    dataset: [icews14,icews05-15,yago,wikidata] (default: icews14)
 	    max_epoch: (shoud be >500) (default: 5000)
 	    dim: 	number of dimension (default: 500)
