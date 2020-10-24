@@ -59,6 +59,7 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Ro
 * Results will be printed out and stored in the corresponding dataset folders.
 
 ## Citation
+If you use the codes, please cite the following papers:
 * ATiSE:
 
       @article{xu2019temporal,
