@@ -17,7 +17,7 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Ro
 
 ## Usage:
 * Install dependencies and put dataset folders here  
-* model.py contains PyTorch(3.x) based implementation of our proposed models
+* model.py contains PyTorch(1.x) based implementation of our proposed models
 * To reproduce the reported results of our models, use the following commands:
 
       python Main.py --model TERO --dataset icews14 --dim 500 --lr 0.1 --gamma 110 --loss logloss --eta 10 --timedisc 0 --cuda True --gran 1
