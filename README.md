@@ -8,7 +8,7 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Ro
 ****
 ## Dependencies:
 * Compatible with Pytorch1.x and Python 3.x.
-* Only can be run in GPU 
+
 
 ## Dataset:
 * The link of the original dataset YAGO11k can be found from paper: [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](https://github.com/malllabiisc/HyTE)
