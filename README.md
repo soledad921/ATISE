@@ -78,4 +78,4 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via TemporalRot
       }
 
 ## License
-ATISE is CC-BY-NC licensed, as found in the LICENSE file.
+ATISE is MIT licensed, as found in the LICENSE file.
