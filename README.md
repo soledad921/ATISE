@@ -7,9 +7,8 @@ ISWC2020 paper: ["Temporal Knowledge Graph Completion based on Time Series Gauss
 COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation"](https://arxiv.org/pdf/2010.01029.pdf)
 ****
 ## Implementation Environment:
-* Pytorch 1.4
-* Python 3.7
-* CUDA 9.1
+* Python 3.7, Pytorch 1.0, CUDA 8.0
+* Python 3.7, Pytorch 1.4, CUDA 9.1
 
 
 ## Dataset:
