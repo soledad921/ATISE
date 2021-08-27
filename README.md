@@ -72,7 +72,7 @@ If you use the codes, please cite the following papers:
       
 * TeRo:
 
-	@inproceedings{TERO,
+      @inproceedings{TERO,
 	    title = "{T}e{R}o: A Time-aware Knowledge Graph Embedding via Temporal Rotation",
 	    author = "Xu, Chengjin  and
 	      Nayyeri, Mojtaba  and
@@ -87,7 +87,7 @@ If you use the codes, please cite the following papers:
 	    url = "https://aclanthology.org/2020.coling-main.139",
 	    doi = "10.18653/v1/2020.coling-main.139",
 	    pages = "1583--1593"
-	}
+      }
 
 ## License
 ATISE is MIT licensed, as found in the LICENSE file.
