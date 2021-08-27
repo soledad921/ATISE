@@ -64,11 +64,13 @@ If you use the codes, please cite the following papers:
 * ATiSE:
 
       @inproceedings{ATiSE,
-        title={Temporal knowledge graph embedding model based on additive time series decomposition},
-        author={Xu, Chengjin and Nayyeri, Mojtaba and Alkhoury, Fouad and Lehmann, Jens and Yazdi, Hamed Shariat},
-        booktitle={ISWC},
-        year={2020}
-      }
+	  title={Temporal knowledge graph completion based on time series gaussian embedding},
+	  author={Xu, Chenjin and Nayyeri, Mojtaba and Alkhoury, Fouad and Yazdi, Hamed and Lehmann, Jens},
+	  booktitle={International Semantic Web Conference},
+	  pages={654--671},
+	  year={2020},
+	  organization={Springer}
+     }
       
 * TeRo:
 
