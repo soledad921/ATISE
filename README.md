@@ -63,21 +63,31 @@ COLING2020 paper: ["TeRo: A Time-aware Knowledge Graph Embedding via Temporal Ro
 If you use the codes, please cite the following papers:
 * ATiSE:
 
-      @article{xu2019temporal,
+      @inproceedings{ATiSE,
         title={Temporal knowledge graph embedding model based on additive time series decomposition},
         author={Xu, Chengjin and Nayyeri, Mojtaba and Alkhoury, Fouad and Lehmann, Jens and Yazdi, Hamed Shariat},
-        journal={arXiv preprint arXiv:1911.07893},
-        year={2019}
+        booktitle={ISWC},
+        year={2020}
       }
       
 * TeRo:
 
-      @article{xu2020tero,
-        title={TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation},
-        author={Xu, Chengjin and Nayyeri, Mojtaba and Alkhoury, Fouad and Yazdi, Hamed Shariat and Lehmann, Jens},
-        journal={arXiv preprint arXiv:2010.01029},
-        year={2020}
-      }
+	@inproceedings{TERO,
+	    title = "{T}e{R}o: A Time-aware Knowledge Graph Embedding via Temporal Rotation",
+	    author = "Xu, Chengjin  and
+	      Nayyeri, Mojtaba  and
+	      Alkhoury, Fouad  and
+	      Shariat Yazdi, Hamed  and
+	      Lehmann, Jens",
+	    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+	    month = dec,
+	    year = "2020",
+	    address = "Barcelona, Spain (Online)",
+	    publisher = "International Committee on Computational Linguistics",
+	    url = "https://aclanthology.org/2020.coling-main.139",
+	    doi = "10.18653/v1/2020.coling-main.139",
+	    pages = "1583--1593"
+	}
 
 ## License
 ATISE is MIT licensed, as found in the LICENSE file.
